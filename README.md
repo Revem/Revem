@@ -1,5 +1,8 @@
+- 🔭 Bom dia, boa tarde, boa noite, meu nome é Victor
+- 🌱 Atualmente estou estudando Javascript/NodeJS
+- 👯 Estou buscando colaborar com projetos reais
+- ⚡ Fun fact: Como hobby busco entender novas tecnologias e aprender coisas novas relacionadas as mesmas, atualmente interessado em realidade virtual
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revem&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revem&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
