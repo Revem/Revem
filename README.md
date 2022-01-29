@@ -8,7 +8,7 @@
 
 - 💬  Pergunte-me sobre **Realidade Virtual 🥽**
 
-- 🚀  Como chegar até mim  [linkedin.com](https://www.linkedin.com/in/victorpicon/)
+- 🚀  Como chegar até mim  [Linkedin](https://www.linkedin.com/in/victorpicon/)
 
 - ⚡ Fun fact **I ❤️️ 🖥**
 
