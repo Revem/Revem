@@ -38,9 +38,9 @@
 
 <p align="center" style="background:blue">
   <a href="https://instagram.com/revemzin" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-revem-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://linkedin.com/in/victorpicon" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-revem-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
