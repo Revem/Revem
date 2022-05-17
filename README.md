@@ -10,7 +10,6 @@
 
 - 🚀  Como chegar até mim  [Linkedin](https://www.linkedin.com/in/victorpicon/)
 
-- ⚡ Fun fact **Eu jogo LOL**
 
 <br>
 
