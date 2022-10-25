@@ -4,7 +4,7 @@
 
 - 🔭   Bom dia, boa tarde, boa noite, meu nome é Victor, me considero uma pessoa apaixonada por tecnologia!
 
-- 🌱  Atualmente estou estudando **JavaScript, ReactJS, NodeJS**
+- 🌱  Atualmente estou estudando **JavaScript** e **Python**
 
 - 💬  Pergunte-me sobre **Realidade Virtual 🥽**
 
