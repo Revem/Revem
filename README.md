@@ -1,14 +1,14 @@
-<h1 align="left">Olá, eu sou o Victor!</h1>
+<h1 align="left">Hello!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revem&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 🔭   Bom dia, boa tarde, boa noite, meu nome é Victor, me considero uma pessoa apaixonada por tecnologia!
+- 🔭   My name's Victor, i think myself as a tech lover guy!
 
-- 🌱  Atualmente estou estudando **JavaScript** e **Python**
+- 🌱  Actualy i'm studdying **Angular** and **Java**
 
-- 💬  Pergunte-me sobre **Realidade Virtual 🥽**
+- 💬  Ask me about **Virtual Reality 🥽**
 
-- 🚀  Como chegar até mim  [Linkedin](https://www.linkedin.com/in/victorpicon/)
+- 🚀  How to find me: [Linkedin](https://www.linkedin.com/in/victorpicon/)
 
 
 <br>
