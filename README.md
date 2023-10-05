@@ -25,7 +25,7 @@
   </div>
   
  
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=revem&color=blueviolet" alt="Profile views" /> </p>
 
 
 
