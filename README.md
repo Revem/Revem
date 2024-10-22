@@ -21,11 +21,11 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=revem&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=victorpicon&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=revem&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorpicon&color=blueviolet" alt="Profile views" /> </p>
 
 
 
